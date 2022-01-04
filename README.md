@@ -1,1 +1,1 @@
-This project is an introduction to Git and Github for vesion control and project workflow
+This project is an introduction to Git and Github for version control and project workflow
