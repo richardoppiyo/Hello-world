@@ -1,1 +1,1 @@
-# Hello-world
+This project is an introduction to Git and Github for vesion control and project workflow
